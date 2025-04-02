@@ -2,7 +2,7 @@
 
 The most reliable Quizizz bot joiner that actually works.
 
-https://github.com/ialwaysw1n/Quizanoy/assets/123456789/abcdef12-3456-7890-1234-567890abcdef
+https://github.com/user-attachments/assets/5ee4cdf6-ede8-4c2d-9b15-90de3e754e65
 
 ## Features
 - Join Quizizz games with multiple bots
