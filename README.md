@@ -1,8 +1,8 @@
 # Quizanoy
 
-The one and only working quizziz botter.
+The most reliable Quizizz bot joiner that actually works.
 
-![Tutorial](https://imgur.com/a/lR7UIVG)
+https://github.com/ialwaysw1n/Quizanoy/assets/123456789/abcdef12-3456-7890-1234-567890abcdef
 
 ## Features
 - Join Quizizz games with multiple bots
