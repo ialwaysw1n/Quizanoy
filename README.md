@@ -2,6 +2,8 @@
 
 The most reliable Quizizz bot joiner that actually works.
 
+**Only work with game code for now**
+
 https://github.com/user-attachments/assets/72e39506-ccd6-45b2-9512-2a384bf67620
 
 ## Features
@@ -20,7 +22,7 @@ fetch('https://raw.githubusercontent.com/ialwaysw1n/Quizanoy/main/script.js').th
 # Step-by-Step Guide: 
 
 1. Go to https://quizizz.com/join
-2. Join
+2. Join the game (optional)
 3. Open developer console (Ctrl+Shift+I)
 4. Paste the code above and press Enter
 5. Enter game PIN
