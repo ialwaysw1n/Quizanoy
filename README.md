@@ -2,7 +2,7 @@
 
 The one and only working quizziz botter.
 
-![Tutorial([https://i.imgur.com/JQZ1l4a.png](https://imgur.com/a/lR7UIVG))
+![Tutorial](https://imgur.com/a/lR7UIVG)
 
 ## Features
 - Join Quizizz games with multiple bots
